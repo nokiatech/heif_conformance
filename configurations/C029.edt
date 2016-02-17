@@ -1,0 +1,16 @@
+{
+	"numb_rept": "0",
+	"edit_unit":
+	[
+		{
+			"edit_type": "shift",
+			"mdia_time": "0",
+			"time_span": "1000"
+		},
+		{
+			"edit_type": "shift",
+			"mdia_time": "0",
+			"time_span": "100000"
+		}
+	]
+}
