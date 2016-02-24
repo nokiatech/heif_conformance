@@ -1,4 +1,4 @@
-# High Efficiency Image File Format (HEIF) Conformance Files
+# High Efficiency Image File Format (HEIF) Conformance File Candidates
 This repository contains file candidates for High Efficiency Image File Format (HEIF) conformance testing. The files are generated using the HEIF source code available **[here](https://github.com/nokiatech/heif)**
 
 The descriptions of the bitstreams and the files can be found in **[conformance_file_descriptions.xlsx](https://github.com/nokiatech/heif_conformance/blob/master/conformance_file_descriptions.xlsx)** file.
