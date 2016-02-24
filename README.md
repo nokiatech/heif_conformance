@@ -11,4 +11,5 @@ This repository contains the following directories:
 * \configurations: Configuration files which were used to generate the HEIF conformance files.
 * \conformance_files: HEIF conformance files 
 
-# Note: Conformance file candidates are subject to change based on test results or new files can be added to the repository for additional conformance testing. Please make sure that you keep your local files up-to-date.
+# Note: 
+Conformance file candidates are subject to change based on test results or new files can be added to the repository for additional conformance testing. Please make sure that you keep your local files up-to-date.
