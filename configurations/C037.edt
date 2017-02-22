@@ -5,12 +5,12 @@
 		{
 			"edit_type": "shift",
 			"mdia_time": "0",
-			"time_span": "8000"
+			"time_span": "800"
 		},
 		{
 			"edit_type": "shift",
 			"mdia_time": "0",
-			"time_span": "3000"
+			"time_span": "300"
 		}
 	]
 }
