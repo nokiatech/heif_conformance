@@ -12,4 +12,4 @@ This repository contains the following directories:
 * \conformance_files: HEIF conformance files 
 
 # Note: 
-Conformance file candidates are subject to change based on test results or new files can be added to the repository for additional conformance testing. Please make sure that you keep your local files up-to-date.
+Conformance file candidates are subject to change based on test results. New files can be added to the repository for additional conformance testing. Please make sure that you keep your local files up-to-date.
