@@ -5,6 +5,8 @@ The descriptions of the bitstreams and the files can be found in **[conformance_
 
 (NOTE: Access to the link requires MPEG membership) HEIF conformance files related MPEG contribution can be found **[here](http://phenix.int-evry.fr/mpeg/doc_end_user/current_document.php?id=54404&id_meeting=166)**
 
+In addition to HEIF conformance files, this branch contains also MIAF conformance file candidates and input bitstreams used while generating those.
+
 ## Contents of the Repository:
 This repository contains the following directories:
 * \bitstreams: Various HEVC encoded bitstreams to be used in the conformance files
